@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers version="1">
+    <server>
+        <serverName>Shanghai_VPN</serverName>
+        <serverIP>127.0.0.1</serverIP>
+    </server>
+    <server>
+        <serverName>Beijing_VPN</serverName>
+        <serverIP>127.0.0.2</serverIP>
+    </server>
+    <unknown>hahaha</unknown>
+    <unknown2>wwww</unknown2>
+    <author>
+        <name>gyg</name>
+        <phone>123456</phone>
+        <position>dev</position>
+    </author>
+</servers>
